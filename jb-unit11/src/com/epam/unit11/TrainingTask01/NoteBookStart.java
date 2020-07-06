@@ -30,3 +30,4 @@ public class NoteBookStart {
 		note.getData().getYear() + "].");
 	}
 }
+// Замечательное решение. И структурировано верно, спасибо.
